@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "360590073017",
+    "firebase_url": "https://fir-notesfragments.firebaseio.com",
+    "project_id": "fir-notesfragments",
+    "storage_bucket": "fir-notesfragments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360590073017:android:a5654fb235820451",
+        "android_client_info": {
+          "package_name": "com.ayala.dam.firebasenotesfragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360590073017-vpsmupriqt31e114gh847647fcrpnopj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayala.dam.firebasenotesfragments",
+            "certificate_hash": "5a5225402684691a824051c0233e7303291a6994"
+          }
+        },
+        {
+          "client_id": "360590073017-hhlkihna3s2d5pin45lbkl6jiitmauc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MHkAPCERpIGAy0cH0W6Yd6rQW8vRLP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360590073017-hhlkihna3s2d5pin45lbkl6jiitmauc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
